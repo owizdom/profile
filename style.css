@@ -1,0 +1,62 @@
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  line-height: 1.6;
+  font-size: 18px;
+  padding: 0 10px;
+  margin: 60px auto;
+  max-width: 700px;
+}
+
+.title,
+.subtitle,
+footer,
+.footer,
+h2,
+h3 {
+  color: #ffffff;
+}
+
+.title {
+  text-align: center;
+  font-size: 24px;
+  font-style: italic;
+}
+
+footer,
+.footer {
+  text-align: center;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+h2,
+h3 {
+  line-height: 1.2;
+}
+
+h2 {
+  font-style: italic;
+  font-size: 18px;
+}
+
+a:link,
+a:visited {
+  color: #7fe3ae;
+}
+
+code,
+.code {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  background-color: #2d2d2d;
+  color: #f2f2f2;
+  border-radius: 3px;
+  padding: 2px 4px;
+}
